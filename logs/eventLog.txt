@@ -1,0 +1,109 @@
+20241128	18:09:11	44f4b902-e966-49e2-bfb5-79a96f6d40f2	GET	undefined	/
+20241128	18:12:07	caf9764b-5b18-4608-bbb7-de412ac191d8	GET	undefined	/  
+20241128	18:18:14	45de89f7-7766-41e1-9e33-3635f2659074	OPTIONS	https://freegems.xyz	/
+20241128	18:18:14	fdf29937-cea1-4d29-a897-f6158118ef5b	GET	https://freegems.xyz	/
+20241128	18:21:45	17d4e1af-2535-4b7c-9356-2c961caf1ca8	OPTIONS	https://www.google.com	/
+20241128	18:21:45	555af14f-6047-4279-9cd8-cd1d92e4206a	GET	https://www.google.com	/
+20241128	18:21:55	05011742-c900-41f0-a96e-9cc8aecbf930	OPTIONS	https://www.google.com	/
+20241128	18:21:55	c3b71638-e0ce-4df9-9143-79c921a4f2d2	GET	https://www.google.com	/
+20241128	18:22:57	4ee54800-3135-4a84-a362-a2eca768c5e2	GET	https://www.google.com	/
+20241128	18:23:04	2f0e8234-a67f-482d-9f3c-e8368df3fad5	GET	https://www.google.com	/
+20241128	18:23:04	0d737015-887b-4505-b5bd-13c448a0580e	GET	https://www.google.com	/
+20241128	18:23:04	8a37d323-6620-4763-a183-209d6e3c4519	GET	https://www.google.com	/
+20241128	18:23:05	7e07c63f-4bdb-4cd6-bdd9-a6ffda8c2598	GET	https://www.google.com	/
+20241128	18:23:05	bd0b03bf-be58-4130-9738-7f1f5ce96871	GET	https://www.google.com	/
+20241128	18:23:05	3be2454a-b7e7-4c8a-85b5-27f69fab8f48	GET	https://www.google.com	/
+20241128	18:23:05	259a48fc-93fa-43ad-aae4-0e564d0a9521	GET	https://www.google.com	/
+20241128	18:23:06	4f15bb4b-5b8c-428c-98a7-990084a14312	GET	https://www.google.com	/
+20241128	18:23:06	4b52c061-f5d5-4fe1-a321-41dc91a505ca	GET	https://www.google.com	/
+20241128	18:23:06	937da2d5-c21b-43b0-a15c-4997e1d1e9b2	GET	https://www.google.com	/
+20241128	18:23:06	ce25c42b-c904-497a-918c-23d570a30beb	GET	https://www.google.com	/
+20241128	18:23:07	783e43f2-b418-431f-9388-5187f1442a16	GET	https://www.google.com	/
+20241128	18:23:07	97dc548a-3a4e-40e9-a41c-50f6827eca8a	GET	https://www.google.com	/
+20241128	18:34:32	fae24e93-d5c2-4bd0-bb37-3136ade542ef	GET	https://www.google.com	/
+20241128	18:44:29	93443888-6892-4590-8b14-4bb8b699a06d	GET	undefined	/
+20241128	18:51:48	8a5ae064-41c1-45ec-a938-e4e7071fdab8	GET	undefined	/
+20241128	18:51:55	59460d90-53a4-4801-854a-9bf1a969a3e4	GET	undefined	/
+20241128	18:53:08	3f6eae50-b30a-4544-9c99-dfb60638053b	Error: Not Allowed by CORS!
+20241211	15:15:00	baacfa9b-6051-49a1-a9f7-6897a78bf57c	Error: Not Allowed by CORS!
+20241211	15:15:00	4a9fc962-1da9-41ad-9248-4dc965e3a8c6	Error: Not Allowed by CORS!
+20241211	15:15:01	beae9586-8a9a-4c7b-b35f-293c5c7deb08	Error: Not Allowed by CORS!
+20241211	15:15:41	52eaf72e-0c2b-45bc-93c2-ba06782df4fa	Error: Not Allowed by CORS!
+20241211	15:15:41	2d7ee908-8cef-4e68-b99d-db6556701984	Error: Not Allowed by CORS!
+20241211	15:15:41	3edccfbc-264e-4bcc-ac22-7136f599e4ac	Error: Not Allowed by CORS!
+20241211	15:15:41	bf8671cc-a673-4646-86db-03041d9b532e	Error: Not Allowed by CORS!
+20241211	15:15:41	1e103726-f351-4a3a-b278-968121c6ca47	Error: Not Allowed by CORS!
+20241211	15:15:42	d1fffcf3-321b-4c84-9716-6f6d0c9a9608	Error: Not Allowed by CORS!
+20241211	15:15:42	c6d14d00-425a-432b-a30c-28ad6eeba725	Error: Not Allowed by CORS!
+20241211	15:15:42	e72212a7-9cb2-4f15-8488-71a476e65ea6	Error: Not Allowed by CORS!
+20241211	15:15:42	0991b1ab-ee2f-48ee-adbf-0827673a63f0	Error: Not Allowed by CORS!
+20241211	15:15:42	836828d6-d6b4-491f-af1e-82a7014507a7	Error: Not Allowed by CORS!
+20241211	15:15:42	634b3ed5-dc84-4a6d-83f2-ac0061fdb969	Error: Not Allowed by CORS!
+20241211	15:15:42	a8cae6f4-2cde-4a21-a1ce-78dd6e106f0b	Error: Not Allowed by CORS!
+20241211	15:15:42	eb74a864-0d8d-4ad9-96eb-27f48839d6e9	Error: Not Allowed by CORS!
+20241211	15:15:42	3c7a0809-5704-4632-9f0b-0a824bc97d9f	Error: Not Allowed by CORS!
+20241211	15:16:14	342942dc-6dd2-461e-bb8c-6dde387b10a9	Error: Not Allowed by CORS!
+20241211	15:16:14	a98b60f5-b89f-49a6-a6d5-b96ca58e83ea	Error: Not Allowed by CORS!
+20241211	15:16:15	913ff1c4-ddc9-40b3-bfab-3e97254f21ee	Error: Not Allowed by CORS!
+20241211	15:16:15	ffbcdbb5-dd55-4ddb-956f-cb2df15e7bc2	Error: Not Allowed by CORS!
+20241211	15:16:15	5f82fcf5-4dbb-4d1d-83f9-19cb5d7a877d	Error: Not Allowed by CORS!
+20241211	15:16:15	c0ddf395-5b4d-4aff-8ad3-a1544d517344	Error: Not Allowed by CORS!
+20241211	15:17:59	80f189c4-10f7-4169-861f-a02c6322221c	Error: Not Allowed by CORS!
+20241211	15:17:59	0642b829-bd71-4a4c-90b1-e6995794ce2b	Error: Not Allowed by CORS!
+20241211	15:18:12	df958f3a-8708-46fa-a671-2a87b1716dca	Error: Not Allowed by CORS!
+20241211	15:18:12	c4009171-47b9-404b-981c-6804983418b8	Error: Not Allowed by CORS!
+20241211	15:18:13	6b4f436c-ea5f-4320-8176-68026a448748	Error: Not Allowed by CORS!
+20241211	15:18:13	b79b2c5b-edc1-40e3-bc42-5128d47b95ae	Error: Not Allowed by CORS!
+20241211	15:18:13	f0dfe0b3-4509-4025-a6d5-ab8d8def59c0	Error: Not Allowed by CORS!
+20241211	15:18:13	e3af1a20-b86c-4bd0-b013-178e0e9dbaf9	Error: Not Allowed by CORS!
+20241211	15:18:20	7b6f562a-d857-40bb-bbf8-91bacc97760a	Error: Not Allowed by CORS!
+20241211	15:18:20	ef1d09da-fd03-44a5-bba8-c79e43b1560b	Error: Not Allowed by CORS!
+20241211	15:18:30	efe2bf62-8d80-4e43-8625-36d6aa1674c3	Error: Not Allowed by CORS!
+20241211	15:18:30	2daa0f9a-94a1-4fd7-a312-92fe3bfa08d6	Error: Not Allowed by CORS!
+20241211	15:18:31	12e50976-0c29-4865-bfe2-2204bba7d4a7	Error: Not Allowed by CORS!
+20241211	15:18:31	64e21dd4-6c33-47a0-9b32-e110f6a6fd2a	Error: Not Allowed by CORS!
+20241211	15:18:31	f3098d1b-b484-4c4f-99e9-c554aa300ab3	Error: Not Allowed by CORS!
+20241211	15:18:31	edf61567-e842-4f7e-9b19-abbbaa9a884a	Error: Not Allowed by CORS!
+20241211	15:18:32	e6ddfbf5-a23c-40cf-80d7-a87a569d4a8d	Error: Not Allowed by CORS!
+20241211	15:18:32	e7083000-3b67-4dc9-b14b-326923aab438	Error: Not Allowed by CORS!
+20241211	15:18:32	35920d33-76d7-47cd-bad8-8ccbbe52595b	Error: Not Allowed by CORS!
+20241211	15:18:32	c6ac717f-603d-461d-8846-1e44f2cc582f	Error: Not Allowed by CORS!
+20241211	15:18:32	d9fbba8f-3d17-4b12-be8b-4ffd8937f110	Error: Not Allowed by CORS!
+20241211	15:18:32	ab79b567-aef8-4b2f-9de8-1da3284cce9c	Error: Not Allowed by CORS!
+20241211	15:19:18	e335cd0d-2a8a-44ec-a7bd-c5efabc70ac4	GET	undefined	/
+20241211	15:19:19	c65e27cb-1200-4b8b-a0d4-d603ae505997	GET	undefined	/favicon.ico
+20241211	15:19:25	36987370-a7ab-4570-8a7b-abbae203a08f	GET	undefined	/subdir
+20241211	15:20:28	34b1a361-c656-43a2-bca3-d907a10061d5	GET	undefined	/subdir/sadf
+20241211	15:20:48	5e045911-7a6c-41d9-82b8-d77775655c24	GET	undefined	/subdir/sadf
+20241211	15:20:49	65adf293-896d-4927-8f3f-19074184eae6	GET	undefined	/subdir/sadf
+20241211	15:20:49	690a39ea-0b14-4a80-beab-9081b5cc7aee	GET	undefined	/subdir/sadf
+20241211	15:20:49	1c922a42-6547-42f3-b6d6-ae1f6c466a78	GET	undefined	/subdir/sadf
+20241211	15:29:02	31f6613b-bbfb-4ccd-95ff-7971876bcbf2	GET	undefined	/subdir/sadf
+20241211	15:29:12	1d4aebeb-a4ff-4980-91f0-21f0566cf974	Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Documents\Visual Studio Code Projects\Learning Projects\hours of terror 2\routes\views\new-page.html'
+20241211	15:29:41	7d875e1d-a791-43b7-a32a-7ae307d0cef9	GET	undefined	/img/img1.jpg
+20241211	15:29:59	f3f8d076-4acb-4f35-b29f-c24d4d384084	GET	undefined	/img/img1.jpg
+20241211	16:05:11	ca3c98bd-93a4-4df8-9f41-c5306bb214f4	Error: Not Allowed by CORS!
+20241211	16:06:19	cd6c7e0d-cdf4-43f1-856e-36ed35c7373f	Error: Not Allowed by CORS!
+20241211	16:06:53	03e547dd-517d-4035-9166-073ba33e2b87	Error: Not Allowed by CORS!
+20241211	16:06:56	e1b9dd72-d60b-4901-abec-746604617545	Error: Not Allowed by CORS!
+20241211	16:07:10	f08e2672-10f4-461b-a61b-855045b45155	Error: Not Allowed by CORS!
+20241211	16:08:44	b5fce3c8-fbb1-428a-abf7-7b6ae63021a7	Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Documents\Visual Studio Code Projects\Learning Projects\hours of terror 2\routes\views\404.html'
+20241212	16:44:19	df36cf1f-b433-4d72-9f75-0cc383e65835	GET	undefined	/favicon.ico
+20241212	16:44:47	adefe4e9-e0b1-4d52-9864-ef651e0239b3	GET	undefined	/register
+20241213	13:13:33	926f761f-bb80-48ad-a709-12f9951487c0	JsonWebTokenError: jwt must be a string
+20241213	13:13:45	d4abf018-4bba-4213-9098-9efefe48a00b	JsonWebTokenError: jwt must be a string
+20241213	13:14:01	4820adaf-17b5-4ffd-a635-d0a823f762a9	JsonWebTokenError: jwt must be a string
+20241213	13:14:10	850a02ff-6eca-4def-885f-76aa675eea55	JsonWebTokenError: jwt must be a string
+20241213	13:15:46	37043942-b47d-481e-9b0a-4481b12e0bfe	JsonWebTokenError: jwt must be a string
+20241213	13:15:47	62689447-94c4-46e3-adbe-fe720c17119f	JsonWebTokenError: jwt must be a string
+20241213	13:15:47	b21f3a4e-9a31-45e4-8b2a-d3c30126ab5a	JsonWebTokenError: jwt must be a string
+20241213	13:15:47	cd21ea02-93d3-485a-afce-93e0fc78753b	JsonWebTokenError: jwt must be a string
+20241213	13:15:47	d89b0b19-057e-4793-9e41-4e9619dd8abb	JsonWebTokenError: jwt must be a string
+20241213	13:15:48	4b8877ca-2f84-44c6-a358-52ded630ea41	JsonWebTokenError: jwt must be a string
+20241213	13:15:48	01ed9a64-9491-4a4f-88d6-b662630b8975	JsonWebTokenError: jwt must be a string
+20241213	13:15:48	ec7b7f32-c0cc-439f-99cf-6f73534ea8d3	JsonWebTokenError: jwt must be a string
+20241213	13:19:33	c61ec541-1854-436d-84f4-e36d424c426a	JsonWebTokenError: jwt must be a string
+20241213	13:22:53	c6e11143-37cd-4877-9749-56623a72184f	JsonWebTokenError: jwt must be a string
+20241213	13:24:05	ab269978-5128-4b0f-80a8-2378fb5de4a1	JsonWebTokenError: jwt must be a string
+20241213	13:24:57	5a60b6fb-67b4-49d0-9439-66c33d11b2e3	JsonWebTokenError: jwt must be a string
+20241213	13:26:00	fc2b91c1-1781-4666-ab98-cfd27ab62c3f	JsonWebTokenError: jwt must be a string
